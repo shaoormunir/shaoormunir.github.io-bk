@@ -67,7 +67,7 @@ author:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/shaoomunir"
     - label: "Google Scholar"
-      icon: "ai ai-google-scholar"
+      icon: "fab fa-fw ai ai-google-scholar-square ai-3x"
       url: "https://scholar.google.com.pk/citations?user=fLZNXJIAAAAJ&hl"
 footer:
   links:
@@ -78,7 +78,7 @@ footer:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/"
     - label: "Google Scholar"
-      icon: "ai ai-google-scholar"
+      icon: "fab fa-fw ai ai-google-scholar-square ai-3x"
       url: "https://scholar.google.com.pk/citations?user=fLZNXJIAAAAJ&hl"
 
 defaults:
