@@ -56,7 +56,7 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Shaoor Munir"
+  name   : "About Me"
   avatar : "/assets/images/bio-photo.png"
   bio    : "Computer Science Ph.D. student at University of California, Davis"
   links:
