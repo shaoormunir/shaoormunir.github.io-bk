@@ -2,8 +2,10 @@
 permalink: /about/
 toc: true
 toc_label: false
+title: "Here's what I have done so far"
 toc_icon: false
 ---
+
 ## Education
 ### **University of California, Davis (2021 - Present)**
 *Ph.D. in Computer Science*
