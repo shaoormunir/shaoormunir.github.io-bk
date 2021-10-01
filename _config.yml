@@ -99,3 +99,6 @@ tag_archive:
   
 head_scripts:
   - "https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css"
+
+atom_feed:
+  hide: true
