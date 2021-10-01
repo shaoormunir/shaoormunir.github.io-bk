@@ -6,7 +6,7 @@ toc_label: false
 toc_icon: false
 ---
 
-## Education
+# Education
 ### **University of California, Davis (2021 - Present)**
 *Ph.D. in Computer Science*
 
@@ -17,7 +17,7 @@ toc_icon: false
 
 **CGPA:** 3.78
 
-## Work Experience
+# Work Experience
 
 ### **Systems Limited (May 2018 - September 2018)**
 Machine Learning Intern
