@@ -1,8 +1,9 @@
 ---
 permalink: /about/
-title: "About"
+toc: true
+toc_label: false
+toc_icon: false
 ---
-
 ## Education
 ### **University of California, Davis (2021 - Present)**
 *Ph.D. in Computer Science*
