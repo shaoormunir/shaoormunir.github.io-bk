@@ -1,6 +1,7 @@
 ---
 layout: archive
 author_profile: true
+title: "Little bit about me"
 ---
 
 # Heading
