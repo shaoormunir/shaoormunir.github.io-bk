@@ -1,5 +1,6 @@
 ---
 permalink: /about/
+layout: archive
 toc: true
 toc_label: false
 toc_icon: false
