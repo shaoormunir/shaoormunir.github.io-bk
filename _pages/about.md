@@ -21,10 +21,8 @@ toc_icon: false
 *Machine Learning Intern*
 
 ### **NorthBay Solutions** (April 2019 - November 2019)
-*Associate Software Engineer (Big Data and AWS)
-*
+*Associate Software Engineer (Big Data and AWS)*
 ### **Lahore University of Management Sciences**
-*Research Associate
-*
+*Research Associate*
 
 For more information, please see my detailed CV [here](../assets/docs/CV.pdf).
