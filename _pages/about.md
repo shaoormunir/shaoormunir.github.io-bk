@@ -2,7 +2,6 @@
 permalink: /about/
 toc: true
 toc_label: false
-title: "Here's what I have done so far"
 toc_icon: false
 ---
 
