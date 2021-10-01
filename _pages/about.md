@@ -6,10 +6,12 @@ title: "About"
 ## Education
 ### **University of California, Davis (2021 - Present)**
 *Ph.D. in Computer Science*
+
 **Advisor:** Prof. Zubair Shafiq
 
 ### **National University of Computer and Emerging Sciences (2014-2018)**
 *Bachelors in Computer Science*
+
 **CGPA:** 3.78
 
 ## Work Experience
@@ -24,4 +26,4 @@ Associate Software Engineer (Big Data and AWS)
 Research Associate
 
 
-For more information, please see my detailed CV [here](../assets/docs/CV.pdf)
+For more information, please see my detailed CV [here](../assets/docs/CV.pdf).
