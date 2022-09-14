@@ -98,7 +98,7 @@ defaults:
       layout: single
       author_profile: true
   
-  #publications
+  # _publications
   - scope:
       path: ""
       type: posts
