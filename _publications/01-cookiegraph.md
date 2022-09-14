@@ -1,6 +1,5 @@
 ___
 title: "COOKIEGRAPH: Measuring and Countering First-Party Tracking Cookies"
-permalink: /publications/cookiegraph/
 ___
 # Abstract
 Recent privacy protections by browser vendors aim to limit the abuse of third-party cookies for cross-site tracking. While these countermeasures against third-party cookies are widely welcome, there are concerns that they will result in advertisers and trackers abusing first-party cookies instead. We provide the first empirical evidence of how first-party cookies are abused by advertisers and trackers by conducting a differential measurement study on 10K websites with third-party cookies allowed and blocked. We find that advertisers and trackers implement cross-site tracking despite third-party cookie blocking by storing identifiers, based on probabilistic and deterministic attributes, in first-party cookies. As opposed to third-party cookies, outright first-party cookie blocking is not practical because it would result in major breakage of legitimate website functionality.
