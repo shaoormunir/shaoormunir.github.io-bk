@@ -7,4 +7,4 @@ entries_layout: list
 classes: wide
 ---
 
-Something something something
+Something something somethings
