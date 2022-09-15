@@ -1,5 +1,5 @@
 ___
-title: "COOKIEGRAPH: Measuring and Countering First-Party Tracking Cookies"
+title: "Measuring and Countering First-Party Tracking Cookies"
 ___
 Something here will go
 # Abstract
