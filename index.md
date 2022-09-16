@@ -4,7 +4,7 @@ author_profile: true
 classes: wide
 ---
 
-I am a first year Ph.D. student of Computer Science at University of California, Davis, where I am currently being advised by [Professor Zubair Shafiq](https://web.cs.ucdavis.edu/~zubair/index.html). My research interests revolve around making internet private and secure for all netizens through use of modern machine learning and data analytics techniques.
+I am a Ph.D. student of Computer Science at University of California, Davis, where I am currently being advised by [Professor Zubair Shafiq](https://web.cs.ucdavis.edu/~zubair/index.html). My research interests revolve around making internet private and secure for all netizens through use of modern machine learning and data analytics techniques.
 
 <!-- # Publications -->
 
