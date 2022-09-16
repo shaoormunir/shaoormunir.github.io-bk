@@ -23,3 +23,10 @@ Proceedings of the 16th Conference of the European Chapter of the Association fo
 - **August, 2022**:
   - Released arXiv preprint of my latest paper: [COOKIEGRAPH: Measuring and Countering First-Party Tracking Cookies](_publications/cookiegraph.md)
   - Attended USENIX Security 2022 Conference in Boston, MA
+- **July, 2022**:
+  - Attended PETS 2022 Conference in Sydney, Australia
+- **November, 2021**:
+  - Attended ProperData Symposium in Irvine, CA
+- **September, 2021**:
+  - Joined PhD Program at UC Davis
+  - Left TPI Lab
