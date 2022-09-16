@@ -38,6 +38,7 @@ Machine Learning Intern
 ---
 ## **NorthBay Solutions**
 > (April 2019 - November 2019)
+
 Associate Software Engineer (Big Data and AWS)
 
 ---
