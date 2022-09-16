@@ -5,7 +5,7 @@ author_profile: true
 
 I am a first year Ph.D. student of Computer Science at University of California, Davis, where I am currently being advised by [Professor Zubair Shafiq](https://web.cs.ucdavis.edu/~zubair/index.html). My research interests revolve around making internet private and secure for all netizens through use of modern machine learning and data analytics techniques.
 
-# Publications
+<!-- # Publications -->
 
 <!-- ## [COOKIEGRAPH: Measuring and Countering First-Party Tracking Cookies](https://arxiv.org/abs/2208.12370) -->
 
@@ -16,3 +16,5 @@ I am a first year Ph.D. student of Computer Science at University of California,
 ***Shaoor Munir**, Brishna Batool, Zubair Shafiq, Padmini Srinivasan, Fareed Zaffar*
 
 Proceedings of the 16th Conference of the European Chapter of the Association for Computational Linguistics: Main Volume **(EACL 2021)** -->
+
+# Updates
