@@ -7,11 +7,7 @@ I am a first year Ph.D. student of Computer Science at University of California,
 
 # Publications
 
-## [COOKIEGRAPH: Measuring and Countering First-Party Tracking Cookies](https://arxiv.org/abs/2208.12370)
-
-***Shaoor Munir**, Sandra Siby, Umar Iqbal, Steven Englehardt, Zubair Shafiq, Carmela Troncoso*
-
-arXiv preprint, **(2022)**
+<!-- ## [COOKIEGRAPH: Measuring and Countering First-Party Tracking Cookies](https://arxiv.org/abs/2208.12370) -->
 
 
 
