@@ -20,5 +20,5 @@ Proceedings of the 16th Conference of the European Chapter of the Association fo
 # Updates
 
 - August, 2022:
-  - Released arXive preprint of my latest paper: [COOKIEGRAPH: Measuring and Countering First-Party Tracking Cookies](_publications/cookiegraph.md)
+  - Released arXiv preprint of my latest paper: [COOKIEGRAPH: Measuring and Countering First-Party Tracking Cookies](_publications/cookiegraph.md)
   - Attended USENIX Security 2022 Conference in Boston, MA
