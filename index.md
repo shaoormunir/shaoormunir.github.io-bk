@@ -18,3 +18,7 @@ I am a first year Ph.D. student of Computer Science at University of California,
 Proceedings of the 16th Conference of the European Chapter of the Association for Computational Linguistics: Main Volume **(EACL 2021)** -->
 
 # Updates
+
+- August, 2022:
+  - Released arXive preprint of my latest paper: [COOKIEGRAPH: Measuring and Countering First-Party Tracking Cookies](_publications/cookiegraph.md)
+  - Attended USENIX Security 2022 Conference in Boston, MA
