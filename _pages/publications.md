@@ -6,5 +6,3 @@ collection: publications
 entries_layout: list
 classes: wide
 ---
-
-Something something something
