@@ -2,9 +2,7 @@
 permalink: /about/
 layout: single
 toc: true
----
-# Education
-
+title: "Education"
 ---
 ## **University of California, Davis (2021 - Present)**
 >Ph.D. in Computer Science
