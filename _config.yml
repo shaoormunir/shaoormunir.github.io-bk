@@ -58,7 +58,7 @@ plugins:
 
 author:
   name   : "Shaoor Munir"
-  avatar : "/assets/images/bio-photo.png"
+  avatar : "/assets/images/bio-photo.jpg"
   bio    : "Ph.D. student at University of California, Davis"
   links:
     - label: "Twitter"
