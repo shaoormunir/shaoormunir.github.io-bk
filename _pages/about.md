@@ -3,9 +3,6 @@ permalink: /about/
 layout: archive
 toc: true
 ---
-
-# Education
----
 ## **University of California, Davis (2021 - Present)**
 >Ph.D. in Computer Science
 
