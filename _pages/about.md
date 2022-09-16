@@ -1,6 +1,6 @@
 ---
 permalink: /about/
-layout: archive
+layout: single
 toc: true
 ---
 ## **University of California, Davis (2021 - Present)**
