@@ -12,6 +12,8 @@ toc_icon: false
 
 **Advisor:** Prof. Zubair Shafiq
 
+---
+
 ### **National University of Computer and Emerging Sciences (2014-2018)**
 *Bachelors in Computer Science*
 
