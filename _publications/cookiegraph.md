@@ -1,5 +1,6 @@
 ---
 title: "COOKIEGRAPH: Measuring and Countering First-Party Tracking Cookies"
+classes: wide
 ---
 [arXiv preprint](https://arxiv.org/abs/2208.12370), **(2022)**
 

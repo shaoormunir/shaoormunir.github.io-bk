@@ -3,6 +3,7 @@ permalink: /about/
 layout: single
 toc: true
 title: ""
+classes: wide
 ---
 # Education
 ---
