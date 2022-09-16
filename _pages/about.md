@@ -2,7 +2,7 @@
 permalink: /about/
 layout: single
 toc: true
-title: "Education and Experience"
+title: ""
 ---
 # Education
 ---
