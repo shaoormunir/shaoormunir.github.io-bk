@@ -20,6 +20,9 @@ Proceedings of the 16th Conference of the European Chapter of the Association fo
 
 # Updates
 
+
+- **September, 2022**:
+  - Appeared on [DataSkeptic podcast](https://dataskeptic.com/blog/episodes/2022/first-party-tracking-cookies) to discuss first-party tracking cookies and counter measures discussed in [COOKIEGRAPH](_publications/cookiegraph.md) paper.
 - **August, 2022**:
   - Released arXiv preprint of my latest paper: [COOKIEGRAPH: Measuring and Countering First-Party Tracking Cookies](_publications/cookiegraph.md)
   - Attended USENIX Security 2022 Conference in Boston, MA
