@@ -21,6 +21,7 @@ Proceedings of the 16th Conference of the European Chapter of the Association fo
 # Updates
 
 - **August, 2022**:
+  - Gave a [talk at Ad-Filtering Dev Summit](https://youtu.be/nBrEGNsOJLM?t=19243) on use of First-Party cookies for tracking 
   - Released arXiv preprint of my latest paper: [COOKIEGRAPH: Measuring and Countering First-Party Tracking Cookies](_publications/cookiegraph.md)
   - Attended USENIX Security 2022 Conference in Boston, MA
 - **July, 2022**:
