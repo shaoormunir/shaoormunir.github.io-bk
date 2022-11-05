@@ -21,7 +21,7 @@ Proceedings of the 16th Conference of the European Chapter of the Association fo
 # Updates
 
 - **October, 2022**
-  - Gave a [talk at Ad-Filtering Dev Summit](https://youtu.be/nBrEGNsOJLM?t=19243) on use of First-Party cookies for tracking
+  - Gave a [talk at Ad-Filtering Dev Summit](https://www.youtube.com/watch?v=gRDmyoM2A0Y) on use of First-Party cookies for tracking
 - **September, 2022**:
   - Appeared on [DataSkeptic podcast](https://dataskeptic.com/blog/episodes/2022/first-party-tracking-cookies) to discuss first-party tracking cookies and counter measures discussed in [COOKIEGRAPH](_publications/cookiegraph.md) paper
 - **August, 2022**: 
