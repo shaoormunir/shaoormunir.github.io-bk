@@ -19,6 +19,8 @@ I am a Computer Science Ph.D. student at University of California, Davis, where 
 Proceedings of the 16th Conference of the European Chapter of the Association for Computational Linguistics: Main Volume **(EACL 2021)** -->
 
 # Updates
+- **August, 2023**
+  - Released arXiv preprint of my latest paper: [PURL: Safe and Effective Sanitization of Link Decoration](_publications/purl.md)
 - **July, 2023**
   - Attended IEEE Security and Privacy (S&P) conference in San Francisco, CA
 - **May, 2023**
