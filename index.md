@@ -19,7 +19,10 @@ I am a Computer Science Ph.D. student at University of California, Davis, where 
 Proceedings of the 16th Conference of the European Chapter of the Association for Computational Linguistics: Main Volume **(EACL 2021)** -->
 
 # Updates
-
+- **July, 2023**
+  - Attended IEEE Security and Privacy (S&P) conference in San Francisco, CA
+- **May, 2023**
+  - My paper on analysis and development of countermeasure against use of firs-party tracking cookies got accepted at ACM CCS 2023.
 - **October, 2022**
   - Gave a [talk at Ad-Filtering Dev Summit](https://www.youtube.com/watch?v=gRDmyoM2A0Y) on use of First-Party cookies for tracking
 - **September, 2022**:
