@@ -20,7 +20,7 @@ Proceedings of the 16th Conference of the European Chapter of the Association fo
 
 # Updates
 - **August, 2023**
-  - Released arXiv preprint of my latest paper: [PURL: Safe and Effective Sanitization of Link Decoration](_publications/3-purl.md)
+  - Released arXiv preprint of my paper on tracking link decorations: [PURL: Safe and Effective Sanitization of Link Decoration](_publications/3-purl.md)
 - **July, 2023**
   - Attended IEEE Security and Privacy (S&P) conference in San Francisco, CA
 - **May, 2023**
@@ -30,7 +30,7 @@ Proceedings of the 16th Conference of the European Chapter of the Association fo
 - **September, 2022**:
   - Appeared on [DataSkeptic podcast](https://dataskeptic.com/blog/episodes/2022/first-party-tracking-cookies) to discuss first-party tracking cookies and counter measures discussed in [COOKIEGRAPH](_publications/2-cookiegraph.md) paper
 - **August, 2022**: 
-  - Released arXiv preprint of my latest paper: [COOKIEGRAPH: Measuring and Countering First-Party Tracking Cookies](_publications/2. cookiegraph.md)
+  - Released arXiv preprint of my paper on first-party tracking cookies: [COOKIEGRAPH: Measuring and Countering First-Party Tracking Cookies](_publications/2. cookiegraph.md)
   - Attended USENIX Security 2022 Conference in Boston, MA
 - **July, 2022**:
   - Attended PETS 2022 Conference in Sydney, Australia
