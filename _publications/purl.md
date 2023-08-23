@@ -2,7 +2,7 @@
 title: "PURL: Safe and Effective Sanitization of Link Decoration"
 classes: wide
 ---
-[arXiv preprint](https://arxiv.org/abs/2308.03417), **(2022)**
+[arXiv preprint](https://arxiv.org/abs/2308.03417), **(2023)**
 
 ***Shaoor Munir**, Patrick Lee, Umar Iqbal, Zubair Shafiq, Sandra Siby*
 # Abstract
