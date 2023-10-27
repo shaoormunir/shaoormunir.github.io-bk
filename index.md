@@ -20,7 +20,7 @@ Proceedings of the 16th Conference of the European Chapter of the Association fo
 
 # Updates
 - **October, 2023**
-  - My work on PURL was featured on [The Register](https://www.theregister.com/2023/10/06/link_tracking_privacy/).
+  - My work on PURL was featured in [The Register](https://www.theregister.com/2023/10/06/link_tracking_privacy/).
   - Gave a talk on measuring and detecting tracking through link decorations at Ad-Filtering Dev Summit.
 - **August, 2023**
   - Released arXiv preprint of my paper on tracking link decorations: [PURL: Safe and Effective Sanitization of Link Decoration](_publications/3-purl.md)
