@@ -21,7 +21,7 @@ Proceedings of the 16th Conference of the European Chapter of the Association fo
 # Updates
 - **November, 2023**
   - Presented my work on first-party tracking cookies at ACM CCS 2023 in Copenhagen, Denmark.
-  - Gave at talk titled: ["Beyond Third-Party Cookies: Safeguarding User Data from Storage and Exfiltration with CookieGraph and PURL"](https://networks.imdea.org/whatsnew/events-agenda/beyond-third-party-cookies-safeguarding-user-data-from-storage-and-exfiltration-with-cookiegraph-and-purl/) at IMDEA Networks.
+  - Gave a talk titled: ["Beyond Third-Party Cookies: Safeguarding User Data from Storage and Exfiltration with CookieGraph and PURL"](https://networks.imdea.org/whatsnew/events-agenda/beyond-third-party-cookies-safeguarding-user-data-from-storage-and-exfiltration-with-cookiegraph-and-purl/) at IMDEA Networks.
 - **October, 2023**
   - My work on PURL was featured in [The Register](https://www.theregister.com/2023/10/06/link_tracking_privacy/).
   - Gave a talk on measuring and detecting tracking through link decorations at Ad-Filtering Dev Summit.
