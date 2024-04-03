@@ -19,6 +19,8 @@ I am a Computer Science Ph.D. student at University of California, Davis, where 
 Proceedings of the 16th Conference of the European Chapter of the Association for Computational Linguistics: Main Volume **(EACL 2021)** -->
 
 # Updates
+- **March, 2023**
+  - My first law review article, "[Google's Chrome Antitrust Paradox](_publications/4-google-chrome-antitrust.md) got accepted to appear in Vanderbilt Journal of Entertainment & Technology Law."
 - **November, 2023**
   - Presented my work on first-party tracking cookies at ACM CCS 2023 in Copenhagen, Denmark.
   - Gave a talk titled: ["Beyond Third-Party Cookies: Safeguarding User Data from Storage and Exfiltration with CookieGraph and PURL"](https://networks.imdea.org/whatsnew/events-agenda/beyond-third-party-cookies-safeguarding-user-data-from-storage-and-exfiltration-with-cookiegraph-and-purl/) at IMDEA Networks.
