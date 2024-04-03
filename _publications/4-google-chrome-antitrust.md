@@ -2,9 +2,7 @@
 title: "Google's Chrome Antitrust Paradox"
 classes: wide
 ---
-
-[Proceedings of the 2023 ACM SIGSAC Conference on Computer and Communications Security](https://dl.acm.org/doi/10.1145/3576915.3616586), **(ACM CCS 2023)**
-[Vanderbilt Journal of Entertainment & Technology Law, Vol. 27] (https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4780718), **(JETLaw Vol 27)**
+[Vanderbilt Journal of Entertainment & Technology Law, Vol. 27](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4780718), **(JETLaw Vol 27)**
 
 ***Shaoor Munir**, Konrad Kollnig, Anastasia Shuba, Zubair Shafiq*
 
