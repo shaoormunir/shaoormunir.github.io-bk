@@ -5,8 +5,7 @@ toc: false
 title: ""
 ---
 For detailed information, please see my CV [here](../assets/docs/CV.pdf).
-**Watch out!** This paragraph of text has been [emphasized](#) with the `{: .notice}` class.
-{: .notice}
+{: .notice--info}
 
 # Education
 ---
