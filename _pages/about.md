@@ -1,7 +1,7 @@
 ---
 permalink: /about/
 layout: single
-toc: true
+toc: false
 title: ""
 ---
 # Education
