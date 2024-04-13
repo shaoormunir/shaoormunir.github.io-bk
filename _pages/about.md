@@ -4,6 +4,8 @@ layout: single
 toc: false
 title: ""
 ---
+For detailed information, please see my CV [here](../assets/docs/CV.pdf).
+
 # Education
 ---
 ## **University of California, Davis**
@@ -42,5 +44,3 @@ Machine Learning Intern
 Associate Software Engineer (Big Data and AWS)
 
 ---
-
-For more information, please see my detailed CV [here](../assets/docs/CV.pdf).
