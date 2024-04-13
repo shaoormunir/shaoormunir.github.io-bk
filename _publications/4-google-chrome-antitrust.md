@@ -2,7 +2,7 @@
 title: "Google's Chrome Antitrust Paradox"
 classes: wide
 ---
-[Vanderbilt Journal of Entertainment & Technology Law, Vol. 27](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4780718), **(JETLaw Vol 27)**
+[Vanderbilt Journal of Entertainment & Technology Law](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4780718), **(JETLaw Vol 27)**
 
 ***Shaoor Munir**, Konrad Kollnig, Anastasia Shuba, Zubair Shafiq*
 

@@ -2,7 +2,7 @@
 title: "COOKIEGRAPH: Measuring and Countering First-Party Tracking Cookies"
 classes: wide
 ---
-[Proceedings of the 2023 ACM SIGSAC Conference on Computer and Communications Security](https://dl.acm.org/doi/10.1145/3576915.3616586), **(ACM CCS 2023)**
+[ACM SIGSAC Conference on Computer and Communications Security](https://dl.acm.org/doi/10.1145/3576915.3616586), **(ACM CCS 2023)**
 
 ***Shaoor Munir**, Sandra Siby, Umar Iqbal, Steven Englehardt, Zubair Shafiq, Carmela Troncoso*
 # Abstract
