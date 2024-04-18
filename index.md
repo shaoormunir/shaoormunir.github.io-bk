@@ -7,7 +7,7 @@ classes: wide
 I am a Computer Science Ph.D. student at University of California, Davis, where I am currently being advised by [Professor Zubair Shafiq](https://web.cs.ucdavis.edu/~zubair/index.html). My research interests revolve around making the internet private and secure for all netizens through the use of modern machine learning and data analytics techniques.
 
 # Updates
-- **March, 2023**
+- **March, 2024**
   - My first law review article, "[Google's Chrome Antitrust Paradox](_publications/4-google-chrome-antitrust.md), got accepted to appear in the Vanderbilt Journal of Entertainment & Technology Law."
 - **November, 2023**
   - Presented my work on first-party tracking cookies at ACM Conference on Computer and Communications Security (CCS) 2023 in Copenhagen, Denmark.
