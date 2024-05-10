@@ -9,10 +9,12 @@ If you notice any trackers present on this website, please don't be alarmed. I a
 I am currently pursuing my Ph.D. in Computer Science at the University of California, Davis, under the guidance of [Professor Zubair Shafiq](https://web.cs.ucdavis.edu/~zubair/index.html). My research is focused on enhancing internet privacy for users worldwide by employing advanced machine learning and data analytics techniques.
 
 # Updates
-**March, 2024**{: .text-center}
+**March, 2024**
+{: .text-center}
   - My first law review article, "[Google's Chrome Antitrust Paradox](_publications/4-google-chrome-antitrust.md), got accepted to appear in the Vanderbilt Journal of Entertainment & Technology Law."
 
-**November, 2023**{: .text-center}
+**November, 2023**
+{: .text-center}
   - Presented my work on first-party tracking cookies at ACM Conference on Computer and Communications Security (CCS) 2023 in Copenhagen, Denmark.
   - Gave a talk titled: ["Beyond Third-Party Cookies: Safeguarding User Data from Storage and Exfiltration with CookieGraph and PURL"](https://networks.imdea.org/whatsnew/events-agenda/beyond-third-party-cookies-safeguarding-user-data-from-storage-and-exfiltration-with-cookiegraph-and-purl/) at IMDEA Networks.
 - **October, 2023**
