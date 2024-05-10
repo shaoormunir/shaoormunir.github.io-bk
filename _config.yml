@@ -70,12 +70,12 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/shaoormunir"
-    - label: "Google Scholar"
-      icon: "fab fa-fw ai ai-google-scholar-square"
-      url: "https://scholar.google.com.pk/citations?user=fLZNXJIAAAAJ&hl"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/shaoormunir/"
+    - label: "Google Scholar"
+      icon: "fab fa-fw ai ai-google-scholar-square"
+      url: "https://scholar.google.com.pk/citations?user=fLZNXJIAAAAJ&hl"
 
 # Collections
 collections:
