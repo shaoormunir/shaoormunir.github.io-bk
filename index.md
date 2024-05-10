@@ -14,7 +14,6 @@ I am currently pursuing my Ph.D. in Computer Science at the University of Califo
 **March, 2024**
 {: .text-center}
   - My first law review article, "[Google's Chrome Antitrust Paradox](_publications/4-google-chrome-antitrust.md), got accepted to appear in the Vanderbilt Journal of Entertainment & Technology Law."
-  {: .text-center}
 
 **November, 2023**
 {: .text-center}
