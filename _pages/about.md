@@ -97,7 +97,7 @@ Content Writer
 
 - **[The Register](https://www.theregister.com/2023/10/06/link_tracking_privacy/):** Covered online tracking through link decoration and detection of these link decorations.
 
-- **[Ad-Filtering Dev Summit 2023](https://www.youtube.com/live/-KkMWUaajhU?feature=shared&t=29340):** Presented work on automatically detecting tracking link decorations.
+- **[Ad-Filtering Dev Summit 2023](https://www.youtube.com/watch?v=vV-PIf9uFuM):** Presented work on automatically detecting tracking link decorations.
 
 - **[DataSkeptic Podcast](https://dataskeptic.com/blog/episodes/2022/first-party-tracking-cookies):** Discussed first-party cookie-based tracking and countermeasures.
 
