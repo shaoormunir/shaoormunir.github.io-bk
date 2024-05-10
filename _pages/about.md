@@ -28,7 +28,7 @@ Bachelors in Computer Science
 
 ---
 # Work Experience
-
+{: .text-center}
 ---
 ## **Lahore University of Management Sciences**
 {: .text-center}
