@@ -62,7 +62,7 @@ author:
   bio: "Ph.D. student at University of California, Davis"
   links:
     - label: "Email"
-      icon: "fas fa-fw fa-envelope"
+      icon: "fab fa-fw fa-at"
       url: "mailto:contact@shaoormunir.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-x-twitter"
