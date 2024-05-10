@@ -13,7 +13,7 @@ I am currently pursuing my Ph.D. in Computer Science at the University of Califo
 
 **May, 2024**
 {: .text-center}
-  - My first-authored paper, [PURL: Safe and Effective Sanitization of Link Decoration](_publications/3-purl.md), got accepted to appear in USENIX Security 2024."
+  - My first-authored paper, [PURL: Safe and Effective Sanitization of Link Decoration](_publications/3-purl.md), got accepted to appear at USENIX Security 2024.
 
 **March, 2024**
 {: .text-center}
