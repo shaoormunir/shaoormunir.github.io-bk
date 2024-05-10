@@ -11,6 +11,10 @@ I am currently pursuing my Ph.D. in Computer Science at the University of Califo
 # Updates
 {: .text-center}
 
+**May, 2024**
+{: .text-center}
+  - My first-authored paper, [PURL: Safe and Effective Sanitization of Link Decoration](_publications/3-purl.md), got accepted to appear in USENIX Security 2024."
+
 **March, 2024**
 {: .text-center}
   - My first law review article, "[Google's Chrome Antitrust Paradox](_publications/4-google-chrome-antitrust.md), got accepted to appear in the Vanderbilt Journal of Entertainment & Technology Law."
