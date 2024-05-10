@@ -68,7 +68,7 @@ author:
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/Shaoor_Munir"
     - label: "GitHub"
-      icon: "fab fa-fw fa-github"
+      icon: "fab fa-fw fa-github-square"
       url: "https://github.com/shaoormunir"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
