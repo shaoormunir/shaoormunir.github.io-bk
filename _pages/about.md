@@ -5,7 +5,7 @@ toc: false
 title: ""
 ---
 For detailed information, please see my CV [here](../assets/docs/CV.pdf).
-{: .notice--info}
+{: .notice--info .text-center}
 
 # Education
 {: .text-center}
