@@ -11,6 +11,59 @@ layout: single
     </header>
 
     <div class="page__content">
+      <style>
+        /* Basic styling for the form */
+        form {
+          max-width: 600px;
+          margin: 20px auto;
+          padding: 20px;
+          background: #f9f9f9;
+          border: 1px solid #d3d3d3;
+        }
+
+        input[type="text"],
+        input[type="email"],
+        input[type="tel"],
+        input[type="password"],
+        input[type="number"] {
+          width: 100%;
+          padding: 8px;
+          margin: 8px 0;
+          display: inline-block;
+          border: 1px solid #ccc;
+          border-radius: 4px;
+          box-sizing: border-box;
+        }
+
+        input[type="submit"] {
+          width: 100%;
+          background-color: #4CAF50;
+          color: white;
+          padding: 14px 20px;
+          margin: 8px 0;
+          border: none;
+          border-radius: 4px;
+          cursor: pointer;
+        }
+
+        input[type="submit"]:hover {
+          background-color: #45a049;
+        }
+
+        label {
+          margin-top: 10px;
+          display: block;
+          font-weight: bold;
+        }
+
+        input[type="checkbox"] {
+          margin-right: 10px;
+        }
+
+        form div {
+          margin-bottom: 10px;
+        }
+      </style>
       <form action="/path/to/form/processing" method="POST">
         <label for="name">Name:</label>
         <input type="text" id="name" name="name"><br><br>
