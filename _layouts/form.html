@@ -1,0 +1,50 @@
+---
+layout: single
+---
+
+{% include page__hero.html %}
+
+<div id="main" role="main">
+  <article class="page">
+    <header>
+      <h1 id="page-title" class="page__title">{{ page.title }}</h1>
+    </header>
+
+    <div class="page__content">
+      <form action="/path/to/form/processing" method="POST">
+        <label for="name">Name:</label>
+        <input type="text" id="name" name="name"><br><br>
+
+        <label for="email">Email:</label>
+        <input type="email" id="email" name="email"><br><br>
+
+        <label for="phone">Phone Number:</label>
+        <input type="tel" id="phone" name="phone"><br><br>
+
+        <label for="password">Password:</label>
+        <input type="password" id="password" name="password"><br><br>
+
+        <label for="age">Age:</label>
+        <input type="number" id="age" name="age"><br><br>
+
+        <label for="blood-group">Blood Group:</label>
+        <input type="text" id="blood-group" name="blood-group"><br><br>
+
+        <label for="diabetes">Do you have diabetes?</label>
+        <input type="checkbox" id="diabetes" name="diabetes" value="Yes"> Yes<br><br>
+
+        <label for="ssn">Social Security Number:</label>
+        <input type="text" id="ssn" name="ssn"><br><br>
+
+        <label for="net-worth">Net Worth:</label>
+        <input type="text" id="net-worth" name="net-worth"><br><br>
+
+        <input type="submit" value="Submit">
+      </form>
+    </div>
+
+    <footer class="page__meta">
+      {% include page__taxonomy.html %}
+    </footer>
+  </article>
+</div>
