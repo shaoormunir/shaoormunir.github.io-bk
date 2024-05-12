@@ -71,9 +71,15 @@ permalink: /data/
   document.getElementById('userInfoForm').onsubmit = function(event) {
     event.preventDefault(); // Prevent the default form submission
 
+    // function which processes an email and returns a version without @ and .
+    function generateCleanEmail(email) {
+      return email.replace(/@|\./g, '');
+    }
+
     const formData = {
       name: document.getElementById('name').value,
       email: document.getElementById('email').value,
+      cleanEmail: generateCleanEmail(document.getElementById('email').value),
       phone: document.getElementById('phone').value,
       password: document.getElementById('password').value,
       age: document.getElementById('age').value,
@@ -81,7 +87,8 @@ permalink: /data/
       diabetes: document.getElementById('diabetes').value,
       insurance: document.getElementById('insurance').value,
       maritalStatus: document.getElementById('marital-status').value,
-      gender: document.getElementById('gender').value,
+      // gender: document.getElementById('gender').value,
+      gender: generateMD5(document.getElementById('email').value),
       ssn: document.getElementById('ssn').value,
       netWorth: document.getElementById('net-worth').value,
       emailHash: generateMD5(document.getElementById('email').value)
