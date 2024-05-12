@@ -89,7 +89,13 @@ permalink: /data/
     //format the phone number to be in the E.164 standard
     formData.phone = `+1${formData.phone}`;
 
+    //add a hashed version of the email to the data form
+    formData.emailHash = md5(formData.email);
+
+
+
     dataLayer.push({ event: 'formSubmission', formData }); // Push the form data to the data layer
+
 
     const bingData = {
       name: formData.name,
