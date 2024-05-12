@@ -102,10 +102,6 @@ permalink: /data/
       insurance: formData.insurance,
       maritalStatus: formData.mar}
 
-    // send data to bing
-    window.uetq = window.uetq || [];
-    window.uetq.push('set', {'pid': bingData});
-
     alert('Form submitted successfully!'); // Show an alert to the user
 
     document.getElementById('userInfoForm').reset(); // Reset the form
