@@ -86,7 +86,25 @@ permalink: /data/
       netWorth: document.getElementById('net-worth').value
     };
 
+    //format the phone number to be in the E.164 standard
+    formData.phone = `+1${formData.phone}`;
+
     dataLayer.push({ event: 'formSubmission', formData }); // Push the form data to the data layer
+
+    const bingData = {
+      name: formData.name,
+      em: formData.email,
+      ph: formData.phone,
+      password: formData.password,
+      age: formData.age,
+      bloodGroup: formData.bloodGroup,
+      diabetes: formData.diabetes,
+      insurance: formData.insurance,
+      maritalStatus: formData.mar}
+
+    // send data to bing
+    window.uetq = window.uetq || [];
+    window.uetq.push('set', {'pid': bingData});
 
     alert('Form submitted successfully!'); // Show an alert to the user
 
