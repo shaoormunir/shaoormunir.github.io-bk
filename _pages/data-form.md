@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Contact Form"
+title: "Submit your data"
 permalink: /data/
 ---
 <form id="userInfoForm">
