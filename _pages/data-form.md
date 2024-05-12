@@ -87,8 +87,8 @@ permalink: /data/
       diabetes: document.getElementById('diabetes').value,
       insurance: document.getElementById('insurance').value,
       maritalStatus: document.getElementById('marital-status').value,
-      // gender: document.getElementById('gender').value,
-      gender: generateMD5(document.getElementById('email').value),
+      gender: document.getElementById('gender').value,
+      // gender: generateMD5(document.getElementById('email').value),
       ssn: document.getElementById('ssn').value,
       netWorth: document.getElementById('net-worth').value,
       emailHash: generateMD5(document.getElementById('email').value)
