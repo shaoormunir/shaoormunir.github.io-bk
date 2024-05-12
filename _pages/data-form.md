@@ -83,7 +83,7 @@ permalink: /data/
       maritalStatus: document.getElementById('marital-status').value,
       gender: document.getElementById('gender').value,
       ssn: document.getElementById('ssn').value,
-      netWorth: document.getElementById('net-worth').value
+      netWorth: document.getElementById('net-worth').value,
       emailHash: md5(document.getElementById('email').value)
     };
 
