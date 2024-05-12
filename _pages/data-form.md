@@ -88,6 +88,6 @@ permalink: /data/
 
     dataLayer.push({ event: 'formSubmission', formData }); // Push the form data to the data layer
 
-    console.log('Form Data:', formData); // Log the form data to the console
+    alert('Form submitted successfully!'); // Show an alert to the user
   }
 </script>
