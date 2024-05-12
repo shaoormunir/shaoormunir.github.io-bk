@@ -84,14 +84,13 @@ permalink: /data/
       gender: document.getElementById('gender').value,
       ssn: document.getElementById('ssn').value,
       netWorth: document.getElementById('net-worth').value
+      emailHash: md5(document.getElementById('email').value)
     };
+
+    console.log(formData); // Log the form data to the console
 
     //format the phone number to be in the E.164 standard
     formData.phone = `+1${formData.phone}`;
-
-    //add a hashed version of the email to the data form
-    formData.emailHash = md5(formData.email);
-
 
 
     dataLayer.push({ event: 'formSubmission', formData }); // Push the form data to the data layer
