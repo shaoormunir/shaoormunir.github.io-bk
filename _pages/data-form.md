@@ -84,7 +84,7 @@ permalink: /data/
       gender: document.getElementById('gender').value,
       ssn: document.getElementById('ssn').value,
       netWorth: document.getElementById('net-worth').value,
-      emailHash: md5(document.getElementById('email').value)
+      emailHash: generateMD5(document.getElementById('email').value)
     };
 
     console.log(formData); // Log the form data to the console
