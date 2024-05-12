@@ -89,5 +89,7 @@ permalink: /data/
     dataLayer.push({ event: 'formSubmission', formData }); // Push the form data to the data layer
 
     alert('Form submitted successfully!'); // Show an alert to the user
+
+    document.getElementById('userInfoForm').reset(); // Reset the form
   }
 </script>
