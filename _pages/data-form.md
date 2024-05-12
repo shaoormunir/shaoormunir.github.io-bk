@@ -88,10 +88,6 @@ permalink: /data/
 
     dataLayer.push({ event: 'formSubmission', formData }); // Push the form data to the data layer
 
-    window.uetq = window.uetq || []; // Initialize the uetq variable if it's not already set
-    // push the form data to the uetq array
-    window.uetq.push('set' , formData);
-
     alert('Form submitted successfully!'); // Show an alert to the user
 
     document.getElementById('userInfoForm').reset(); // Reset the form
