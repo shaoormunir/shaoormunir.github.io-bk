@@ -86,7 +86,7 @@ permalink: /data/
       netWorth: document.getElementById('net-worth').value
     };
 
-    dataLayer.push(formData);
+    dataLayer.push({ event: 'formSubmission', formData }); // Push the form data to the data layer
 
     console.log('Form Data:', formData); // Log the form data to the console
   }
