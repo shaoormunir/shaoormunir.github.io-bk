@@ -103,16 +103,16 @@ permalink: /data/
     dataLayer.push({ event: 'formSubmission', formData }); // Push the form data to the data layer
 
 
-    const bingData = {
-      name: formData.name,
-      em: formData.email,
-      ph: formData.phone,
-      password: formData.password,
-      age: formData.age,
-      bloodGroup: formData.bloodGroup,
-      diabetes: formData.diabetes,
-      insurance: formData.insurance,
-      maritalStatus: formData.mar}
+    // const bingData = {
+    //   name: formData.name,
+    //   em: formData.email,
+    //   ph: formData.phone,
+    //   password: formData.password,
+    //   age: formData.age,
+    //   bloodGroup: formData.bloodGroup,
+    //   diabetes: formData.diabetes,
+    //   insurance: formData.insurance,
+    //   maritalStatus: formData.mar}
 
     alert('Form submitted successfully!'); // Show an alert to the user
 
