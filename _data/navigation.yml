@@ -3,5 +3,5 @@ main:
     url: /about/
   - title: "Publications"
     url: /publications/
-  - title: "Data Form"
-    url: /data/
+  # - title: "Data Form"
+  #   url: /data/
