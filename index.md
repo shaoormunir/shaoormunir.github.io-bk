@@ -13,7 +13,7 @@ I am currently pursuing my Ph.D. in Computer Science at the University of Califo
 
 **May, 2024**
 {: .text-center}
-  - My first-authored paper, [PURL: Safe and Effective Sanitization of Link Decoration](_publications/3-purl.md), got accepted to appear at USENIX Security 2024.
+  - My paper on detecting tracking link decorations ([PURL: Safe and Effective Sanitization of Link Decoration](_publications/3-purl.md)) got accepted to appear at USENIX Security 2024.
 
 **March, 2024**
 {: .text-center}
@@ -39,7 +39,7 @@ I am currently pursuing my Ph.D. in Computer Science at the University of Califo
 
 **May, 2023**
 {: .text-center}
-  - My paper on analysis and development of countermeasure against use of first-party tracking cookies got accepted at ACM CCS 2023.
+  - My paper on analysis and development of countermeasure against use of first-party tracking cookies ([CookieGraph: Measuring and Detecting First-Party Tracking cookies](_publications/2-cookiegraph.md)) got accepted at ACM CCS 2023.
 
 **October, 2022**
 {: .text-center}
