@@ -51,7 +51,7 @@ I am currently pursuing my Ph.D. in Computer Science at the University of Califo
 
 **August, 2022** 
 {: .text-center}
-  - Released arXiv preprint of my paper on first-party tracking cookies: [COOKIEGRAPH: Measuring and Countering First-Party Tracking Cookies](_publications/2. cookiegraph.md)
+  - Released arXiv preprint of my paper on first-party tracking cookies: [COOKIEGRAPH: Measuring and Countering First-Party Tracking Cookies](_publications/2.cookiegraph.md)
   - Attended USENIX Security 2022 Conference in Boston, MA
 
 **July, 2022**
