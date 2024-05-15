@@ -39,7 +39,7 @@ I am currently pursuing my Ph.D. in Computer Science at the University of Califo
 
 **May, 2023**
 {: .text-center}
-  - My paper on analysis and development of countermeasure against use of first-party tracking cookies ([CookieGraph: Measuring and Countering First-Party Tracking cookies](_publications/2-cookiegraph.md)) got accepted at ACM CCS 2023.
+  - My paper on analysis and development of countermeasure against use of first-party tracking cookies ([COOKIEGRAPH: Measuring and Countering First-Party Tracking cookies](_publications/2-cookiegraph.md)) got accepted at ACM CCS 2023.
 
 **October, 2022**
 {: .text-center}
