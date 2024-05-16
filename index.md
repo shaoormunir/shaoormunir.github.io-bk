@@ -49,7 +49,7 @@ I am currently pursuing my Ph.D. in Computer Science at the University of Califo
 {: .text-center}
   - Appeared on the [DataSkeptic podcast](https://dataskeptic.com/blog/episodes/2022/first-party-tracking-cookies) to discuss first-party tracking cookies and counter measures discussed in [COOKIEGRAPH](_publications/2-cookiegraph.md) paper
 
-**August, 2022** 
+**August, 2022**
 {: .text-center}
   - Released arXiv preprint of my paper on first-party tracking cookies: [COOKIEGRAPH: Measuring and Countering First-Party Tracking Cookies](_publications/2-cookiegraph.md)
   - Attended USENIX Security 2022 Conference in Boston, MA
