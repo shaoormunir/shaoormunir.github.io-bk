@@ -13,6 +13,7 @@ I am currently pursuing my Ph.D. in Computer Science at the University of Califo
 
 **May, 2024**
 {: .text-center}
+  - Presented a poster on large scale analysis of bot detection at [IEEE S&P 2024](https://sp2024.ieee-security.org/downloads/SP24-posters/sp24posters-final14.pdf).
   - My paper on detecting tracking link decorations ([PURL: Safe and Effective Sanitization of Link Decoration](_publications/3-purl.md)) got accepted to appear at USENIX Security 2024.
 
 **March, 2024**
