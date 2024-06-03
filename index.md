@@ -3,8 +3,8 @@ layout: archive
 author_profile: true
 classes: wide
 ---
-<!-- If you notice any trackers present on this website, please don't be alarmed. I am currently running a study on this website to determine behavior of some trackers.
-{: .notice--danger .text-center} -->
+If you notice any trackers present on this website, please don't be alarmed. I am currently running a study on this website to determine behavior of some trackers.
+{: .notice--danger .text-center}
 
 I am currently pursuing my Ph.D. in Computer Science at the University of California, Davis, under the guidance of [Professor Zubair Shafiq](https://web.cs.ucdavis.edu/~zubair/index.html). My research is focused on enhancing internet privacy for users worldwide by employing advanced machine learning and data analytics techniques.
 
