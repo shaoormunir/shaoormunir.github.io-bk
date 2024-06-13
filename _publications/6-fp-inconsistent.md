@@ -1,5 +1,5 @@
 ---
-title: FP-Inconsistent: Detecting Evasive Bots using Browser Fingerprint Inconsistencies
+title: "FP-Inconsistent: Detecting Evasive Bots using Browser Fingerprint Inconsistencies"
 classes: wide
 ---
 [arXiv Preprint](https://arxiv.org/abs/2406.07647), **(arXiv 2024)**
