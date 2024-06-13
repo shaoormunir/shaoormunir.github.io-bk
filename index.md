@@ -11,6 +11,10 @@ I am currently pursuing my Ph.D. in Computer Science at the University of Califo
 # Updates
 {: .text-center}
 
+**June, 2024**
+{: .text-center}
+  - Released arXiv preprint of my paper on detecting evasive bots using inconsistencies in browser fingerprints: [FP-Inconsistent: Detecting Evasive Bots using Browser Fingerprint Inconsistencies](https://arxiv.org/abs/2406.07647)
+
 **May, 2024**
 {: .text-center}
   - Presented a poster on large scale analysis of bot detection at [IEEE S&P 2024](https://sp2024.ieee-security.org/downloads/SP24-posters/sp24posters-final14.pdf).
