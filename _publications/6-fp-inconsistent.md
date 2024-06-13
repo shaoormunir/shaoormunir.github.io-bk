@@ -3,6 +3,7 @@ title: "FP-Inconsistent: Detecting Evasive Bots using Browser Fingerprint Incons
 classes: wide
 ---
 [arXiv Preprint](https://arxiv.org/abs/2406.07647), **(arXiv 2024)**
+
 *Hari Venugopalan, **Shaoor Munir**, Shuaib Ahmed, Tangbaihe Wang, Samuel T. King, Zubair Shafiq*
 
 # Abstract
