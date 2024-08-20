@@ -2,7 +2,7 @@
 title: "PURL: Safe and Effective Sanitization of Link Decoration"
 classes: wide
 ---
-[33rd USENIX Security Symposium](https://arxiv.org/abs/2308.03417), **(USENIX Security 2024)**
+[33rd USENIX Security Symposium](https://www.usenix.org/conference/usenixsecurity24/presentation/munir), **(USENIX Security 2024)**
 
 ***Shaoor Munir**, Patrick Lee, Umar Iqbal, Zubair Shafiq, Sandra Siby*
 # Abstract
