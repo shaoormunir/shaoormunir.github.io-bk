@@ -3,6 +3,8 @@ permalink: /about/
 layout: single
 toc: true
 toc_sticky: true
+toc_label: ""
+toc_icon: ""
 title: ""
 ---
 For detailed information, please see my CV [here](../assets/docs/CV.pdf).
