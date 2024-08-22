@@ -3,6 +3,7 @@ layout: single
 author_profile: true
 classes: wide
 toc: true
+toc_sticky: true
 ---
 <!-- If you notice any trackers present on this website, please don't be alarmed. I am currently running a study on this website to determine behavior of some trackers.
 {: .notice--danger .text-center} -->
