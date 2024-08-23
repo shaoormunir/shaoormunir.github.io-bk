@@ -1,5 +1,5 @@
 ---
-layout: wide
+layout: single
 author_profile: true
 toc: true
 toc_label: "Updates"
